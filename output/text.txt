@@ -1,0 +1,1 @@
+This is a sample PDF with a link, an image, and a table.Click here to visit OpenAI
