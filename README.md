@@ -66,3 +66,8 @@ sql_storage.save_data(data_extractor, file_path)
 - `sqlite3` module (included with Python standard library)
 - `os` module (included with Python standard library)
 - `abc` module (included with Python standard library)
+
+
+
+## RUN
+python run_extraction.py
